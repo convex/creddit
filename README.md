@@ -33,5 +33,5 @@ The app UI uses some basic components from [Material UI](https://mui.com/).
 ## Next Steps
 
 If you want to jump forward to the finished product check out the [`convex`
-branch](https://github.com/get-convex/creddit/tree/convex) of this repository.
+branch](https://github.com/convex/creddit/tree/convex) of this repository.
 Otherwise head on over to [the Convex docs](https://docs.convex.dev) to learn more.
